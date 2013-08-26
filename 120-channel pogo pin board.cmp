@@ -1,24 +1,24 @@
-Cmp-Mod V01 Created by CvPCB (2011-04-29 BZR 2986)-stable date = 8/2/2011 3:55:10 PM
+Cmp-Mod V01 Created by CvPcb (2013-03-31 BZR 4008)-stable date = 11/07/2013 1:52:31 PM
 
 BeginCmp
-TimeStamp = /4DD2CEFD;
+TimeStamp = /516DBB65;
 Reference = J1;
-ValeurCmp = CONN_50;
-IdModule  = HE10_50D;
+ValeurCmp = CONN_40;
+IdModule  = TFML-120-01-XXX-D-RA;
 EndCmp
 
 BeginCmp
-TimeStamp = /4E384616;
+TimeStamp = /516DBB77;
 Reference = J2;
-ValeurCmp = CONN_50;
-IdModule  = HE10_50D;
+ValeurCmp = CONN_40;
+IdModule  = TFML-120-01-XXX-D-RA;
 EndCmp
 
 BeginCmp
-TimeStamp = /4E384617;
+TimeStamp = /516DBB7D;
 Reference = J3;
-ValeurCmp = CONN_50;
-IdModule  = HE10_50D;
+ValeurCmp = CONN_40;
+IdModule  = TFML-120-01-XXX-D-RA;
 EndCmp
 
 BeginCmp
