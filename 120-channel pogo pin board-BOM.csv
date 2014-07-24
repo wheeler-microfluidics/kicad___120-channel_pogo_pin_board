@@ -1,0 +1,3 @@
+Item,Qty,Reference Designator,Description,Package,Type,Manufacturer,Part No.,Digikey Part No.,Link
+1,120,P1-P120,CONN PIN SPRING-LOADED PCB GOLD,header,Through-hole,Mill-Max Manufacturing Corp.,0906-1-15-20-75-14-11-0,ED8181-ND,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=ED8181-ND
+2,3,J1-3,"Connection header, 0.05"" Right Angle, 40 Position",header,Through-hole,Samtec Inc.,TFML-120-01-S-D-RA,SAM8266-ND,http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=SAM8266-ND
