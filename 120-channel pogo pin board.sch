@@ -29,15 +29,14 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:wheelerlab
-LIBS:120-channel pogo pin board-cache
 EELAYER 25 0
 EELAYER END
 $Descr User 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "minibox v2"
-Date "16 apr 2013"
-Rev "1"
+Title "120-channel pogo pin board"
+Date "2016-11-18"
+Rev "v2.0"
 Comp "Ryan Fobel"
 Comment1 ""
 Comment2 ""
